@@ -1,0 +1,103 @@
+@font-face{font-family:GraphikCompact;font-weight:400;src:url(https://d2wwhj0amomscw.cloudfront.net/outils/impots/fonts/GraphikCompact-Regular-Web.woff?v=21) format("woff")}@font-face{font-family:GraphikCompact;font-weight:600;src:url(https://d2wwhj0amomscw.cloudfront.net/outils/impots/fonts/GraphikCompact-Semibold-Web.woff?v=21) format("woff")}@font-face{font-family:GraphikCondensed;font-weight:600;src:url(https://d2wwhj0amomscw.cloudfront.net/outils/impots/fonts/GraphikCondensed-Semibold-Web.woff?v=21) format("woff")}@font-face{font-family:GraphikCondensed;font-weight:700;src:url(https://d2wwhj0amomscw.cloudfront.net/outils/impots/fonts/GraphikCondensed-Bold-Web.woff?v=21) format("woff")}@font-face:{font-family:Raleway;font-weight:400;src:url(https://edito.nicematin.com/omalval/raleway-regular-webfont.woff) format("woff");}
+
+body {
+  font-family: 'Raleway' !important;
+}
+
+h1 {
+  display: block;
+  margin: 0 auto;
+}
+
+h2 {
+  padding: 10px;
+}
+
+.ant-layout-footer {
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+}
+
+.ant-slider-disabled .ant-slider-track {
+  background-color: #000f2b !important;
+  cursor: pointer !important;
+}
+
+.ant-modal-body {
+  padding: 0 !important;
+}
+
+.ant-modal-body p {
+  padding: 24px !important;
+}
+
+.ant-button-primary {
+  background-color: #02e3b7 !important;
+}
+
+.ant-slider-disabled {
+  cursor: pointer !important;
+}
+
+.ant-layout {
+  background: transparent!important;
+}
+
+.ant-radio-button-wrapper:hover {
+  color: #02e3b7;
+}
+
+.ant-progress-bg {
+  background-color:#000f2b !important;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.content {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.notabene {
+  color: #000f2b;
+  font-size:12px;
+}
+
+.source {
+  color: #000f2b;
+  font-size:12px;
+}
+
+#sentence {
+  margin-top: 20px;
+  width: 90%;
+}
+
+.hide {
+  display:none;
+}
+
+.content form {
+  width: 90%;
+}
+
+.App-link {
+  color: #000f2b;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
