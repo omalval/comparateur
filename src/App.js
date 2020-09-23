@@ -112,7 +112,7 @@ class App extends Component {
       'Philippe Vardon' : this.state.totalScore['Philippe Vardon'] + scoreReponse['Philippe Vardon'],
       'Benoît Kandel' : this.state.totalScore['Benoît Kandel'] + scoreReponse['Benoît Kandel'],
       'Valéry Sohm' : this.state.totalScore['Valéry Sohm'] + scoreReponse['Valéry Sohm'],
-      'Christian Estrosi' : this.state.totalScore['Christian Estrosio'] + scoreReponse['Christian Estrosi'],
+      'Christian Estrosi' : this.state.totalScore['Christian Estrosi'] + scoreReponse['Christian Estrosi'],
       'Jean-Marc Governatori' : this.state.totalScore['Jean-Marc Governatori'] + scoreReponse['Jean-Marc Governatori'],
       'Patrick Allemand' : this.state.totalScore['Patrick Allemand'] + scoreReponse['Patrick Allemand'],
       'Mireille Damiano' : this.state.totalScore['Mireille Damiano'] + scoreReponse['Mireille Damiano']

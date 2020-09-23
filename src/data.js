@@ -670,6 +670,7 @@ var QR = [
       }
   }
 
+
   for (let i = 0; i < uniq.length; i++) {
       const question = uniq[i];
       var o = {}
